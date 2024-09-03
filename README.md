@@ -5,8 +5,9 @@
 hi my name is " ", and I form " ", ok that's all...
 
 
-1.The King of North
-2.The mother of dragons
-3.Hold the door
-4.Hodoer
-5.Arya
+1.Hold the door
+2.Hold the door
+3.Hold door
+4.Hold door
+5.Hodor
+6.Hodor
