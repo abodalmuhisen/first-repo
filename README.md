@@ -2,7 +2,7 @@
 
 ## testing the first repo
 
-hi my name is " ", and I form " ", ok that's all...
+hi my name is " ", and I'm form " ", ok that's all...
 
 
 1.The King of North
